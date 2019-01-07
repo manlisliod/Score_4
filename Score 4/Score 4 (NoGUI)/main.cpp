@@ -254,7 +254,7 @@ int coinDrop(GameBoard** &Board, std::string &player1_color, std::string &player
 		}
 	}
 	
-	//Italic
+	//Cross Posibilities Check
 	//Here is all the posible wins which checked.
 	//depending on the situation player 1 or 2 wins
 	
